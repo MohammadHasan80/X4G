@@ -1,3 +1,8 @@
+آموزش ویدیویی :
+https://www.youtube.com/watch?v=kx06wLWldE8&t=4s
+
+
+
 # 🚀 X4G
 
 دروازه (Gateway) سریع و مدرن برای تونل‌زنی VLESS روی WebSocket + HTTP Proxy، با داشبورد مدیریتی زیبا و قابلیت ساخت لینک‌های اختصاصی با محدودیت ترافیک.
